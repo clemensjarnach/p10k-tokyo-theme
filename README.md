@@ -2,6 +2,8 @@
 
 A [Powerlevel10k](https://github.com/romkatv/powerlevel10k) prompt theme styled after the [Tokyo Night](https://github.com/folke/tokyonight.nvim) colour palette. Built on the rainbow prompt style with angled separators and Nerd Font icons.
 
+![Preview of p10k-tokyo theme](https://github.com/clemensjarnach/p10k-tokyo-theme/blob/main/p10k-tokyo-screenshot.png?raw=true)
+
 ## Palette
 
 | Role | Hex | 256-code |
